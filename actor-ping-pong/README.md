@@ -37,7 +37,7 @@ This example can be run from the console. From the root of the repo run:
 
 > $ actor-ping-pong/ping-pong.rb
 
-The output should be sonething like this:
+The output should be something like this:
 
 ```
 Ping: pong 10000
